@@ -1,0 +1,60 @@
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.exe.config
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.exe
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.pdb
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.AssemblyReference.cache
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.Properties.Resources.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.GenerateResource.cache
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.CoreCompileInputs.cache
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.exe
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.pdb
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.Form1.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmBrandList.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmBrand.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmCategoryList.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmCategory.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmProduct.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmProductList.resources
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.Design.dll
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.dll
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Amantha Keshan\Desktop\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.CopyComplete
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.exe.config
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.exe
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.pdb
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.Design.dll
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.dll
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.Fonts.dll
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.AssemblyReference.cache
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.Form1.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmBrand.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmBrandList.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmCategory.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmCategoryList.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmProduct.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmProductList.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.Properties.Resources.resources
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.GenerateResource.cache
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.CoreCompileInputs.cache
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.CopyComplete
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.exe
+E:\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.pdb
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.exe.config
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.exe
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\Ishara Traders.pdb
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.Design.dll
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.dll
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.AssemblyReference.cache
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.Form1.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmBrand.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmBrandList.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmCategory.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmCategoryList.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmProduct.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.frmProductList.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara_Traders.Properties.Resources.resources
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.GenerateResource.cache
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.CoreCompileInputs.cache
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.csproj.CopyComplete
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.exe
+C:\Users\Amantha Keshan\Desktop\Project\SYSTEM_Ishara Traders\system_ishara traders\1\Hardware System\Ishara Traders\Ishara Traders\obj\Debug\Ishara Traders.pdb

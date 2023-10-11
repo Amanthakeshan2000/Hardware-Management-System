@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ishara Traders", "Ishara Traders\Ishara Traders.csproj", "{D32A2363-6B56-44F0-9F59-626907696B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32A2363-6B56-44F0-9F59-626907696B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32A2363-6B56-44F0-9F59-626907696B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32A2363-6B56-44F0-9F59-626907696B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32A2363-6B56-44F0-9F59-626907696B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60CED5B-A178-4F69-9A0B-1A0252B991E6}
+	EndGlobalSection
+EndGlobal
